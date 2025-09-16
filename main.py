@@ -3,7 +3,7 @@ from telebot import types
 
 from bg import solve_equation, solve_inequality, solve_system
 
-TOKEN = "8490027010:AAGe6xBYqf395tnLcurJ_lBQ5rocK-wQg90"
+TOKEN = ""
 bot = telebot.TeleBot(TOKEN)
 user_states = {}
 
